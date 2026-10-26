@@ -52,7 +52,7 @@ O projeto contempla o gerenciamento de usuários, clientes, produtos e vendas, b
 
 **🛠️ Tecnologias:** Python · PostgreSQL · Pytest · Git
 
-🔗 [Acessar repositório]([LINK_DO_REPOSITORIO](https://github.com/G-Braghin/Sistema-de-gestao))
+🔗 [Acessar repositório](https://github.com/G-Braghin/Sistema-de-gestao)
 
 ## 📚 Atualmente estudando
 
